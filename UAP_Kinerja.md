@@ -1,3 +1,3 @@
 1. ini adalah langkah pertama
 
-(../SS/1.png)
+![Screen shot git](../SS/1.png)
